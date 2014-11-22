@@ -1,0 +1,44 @@
+*{
+	font-family:'lato', sans-serif;
+}
+.my-container{
+	padding:5px;
+	color:white;
+	background-color:#f2ca27;
+}
+.nav{
+	float:right;
+}
+.nav li{
+	float:left;
+	display:inline;
+}
+.nav a{
+	color:black;
+}
+
+.btn-primary{
+	background-color:#f2ca27;
+}
+
+.btn-primary:hover{
+	background-color:#f2ca27;
+}
+.my-title{
+	font-size: 250px;
+	text-shadow: 0 0 1px #000000;
+	color: #bdc3c7;
+}
+.image img{
+	width:15%;
+	height:15%;
+}
+.desc{
+	text-align: center;
+}
+.my-button{
+	font-size:40px;
+}
+button a{
+	color:white;
+}
